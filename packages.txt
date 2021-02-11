@@ -1,3 +1,0 @@
-pandas1.2.1-dev 
-plotly4.14.3-dev
-streamlit0.75.0-dev
